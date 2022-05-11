@@ -31,4 +31,4 @@
 3. Delete the old resource pack from the open folder
 4. Drag the Purity Tweaks folder to the game window
 
-[^optional]: You can rename the extracted folder to `§bPurity §dTweaks` to make it look nicer
+[^optional]: You can rename the extracted folder to `§bPurity §dTweaks` to make it look nicer in game
