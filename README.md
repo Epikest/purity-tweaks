@@ -19,7 +19,8 @@
 ## Updating
 ### If you used the [recommended method](https://github.com/Epikest/purity-tweaks#recommended-method)
 1. Repeat step 2
-2. Run `git pull` from inside the opened folder
+2. Open the `§bPurity §dTweaks` folder
+3. Run `git pull` from inside the opened folder
 
 ### If you used the [alternative method](https://github.com/Epikest/purity-tweaks#alternative-method)
 1. Repeat steps 1 and 2
