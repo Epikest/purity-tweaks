@@ -34,7 +34,8 @@
 5. Drag the Purity Tweaks folder to the game window
 
 ## Additional notes
-A CIT mod is *required* for some of the textures to be visible. You can use [CIT Resewn](https://modrinth.com/mod/cit-resewn) or [Optifine](https://optifine.net/downloads) (needs [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) if using Fabric loader).
+- A CIT mod is *required* for some of the textures to be visible. You can use [CIT Resewn](https://modrinth.com/mod/cit-resewn) or [Optifine](https://optifine.net/downloads) (needs [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) if using Fabric loader).
+- A custom colors mod is *required* for some of the colors to be visible. You can use [Colormatic](https://modrinth.com/mod/colormatic) or [Optifine](https://optifine.net/downloads) (needs [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) if using Fabric loader).
 
 This resource pack is made for Minecraft 1.18.2.
 ### Recommended mods
